@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
@@ -9,4 +10,8 @@
 
 .container header .navbar .container-fluid .collapse .navbar-nav .nav-item:nth-child(1){
     border-bottom: 1px solid rgb(0, 153, 255);
+=======
+.container footer .footer-foot {
+    background-color: liner-gradient;
+>>>>>>> 17c3012db53d09907cd313075e25b32d567224c7
 }
