@@ -1,4 +1,33 @@
+<<<<<<< HEAD
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container header .container-fluid{
+    border-bottom: 1px solid powderblue;
+}
+
+.container header .navbar .container-fluid .collapse .navbar-nav .nav-item:nth-child(1){
+    border-bottom: 1px solid rgb(0, 153, 255);
+}
+
+=======
 .container footer .footer-foot {
+<<<<<<< HEAD
   background-image: linear-gradient(to bottom,rgb(40, 116, 247), rgb(16, 26, 218));;
   color: white;
+=======
+    background-color: liner-gradient;
+>>>>>>> 17c3012db53d09907cd313075e25b32d567224c7
+}
+
+@media all and (max-width: 1000px){
+    .container .section-1 .col-md-12 .row .col-md-5 .row .col-md-4:nth-child(2){
+        margin-top: 10px;
+    }
+    .container .section-1{
+        margin-top: -30px;
+    }
+>>>>>>> f358a9d40f85c23a6f3e20a81754c541b9093e2e
 }
