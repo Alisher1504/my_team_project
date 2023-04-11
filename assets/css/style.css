@@ -1,3 +1,4 @@
 .container footer .footer-foot {
-    background-color: liner-gradient;
+  background-image: linear-gradient(to bottom,rgb(40, 116, 247), rgb(16, 26, 218));;
+  color: white;
 }
